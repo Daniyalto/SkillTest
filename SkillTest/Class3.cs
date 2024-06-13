@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SkillTest
 {
-    public class TheFirstClass
+    public class Class3
     {
     }
 }
