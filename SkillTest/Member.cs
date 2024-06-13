@@ -35,10 +35,7 @@ namespace SkillTest
 
         }
 
-       
-
-
-
+      
         public Member()
         {
             _dogList = new List<Dog>();
@@ -97,16 +94,7 @@ namespace SkillTest
 
         }
 
-        /*{
-            if (UseList)
-            {
-                _dogList.Add(dog);
-            }
-            else
-            {
-                _dogList.Add(dog.ID, dog);
-            }
-        }*/
+     
 
         public void PrintDogs()
         {
@@ -119,10 +107,7 @@ namespace SkillTest
             }
         }
 
-        /*public void dog(Dog dog)
-        {
-            _dogList.Remove(dog);
-        }*/
+        
 
         public void RemoveDog(Dog dog)
         {
